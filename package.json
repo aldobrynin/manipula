@@ -27,6 +27,8 @@
   },
   "homepage": "https://github.com/litichevskiydv/manipula#readme",
   "devDependencies": {
+    "benchmark": "^2.1.4",
+    "benchtable": "^0.1.0",
     "coveralls": "3.0.2",
     "jest": "23.6.0",
     "jest-extended": "0.11.0"
